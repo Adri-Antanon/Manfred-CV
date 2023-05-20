@@ -24,8 +24,7 @@
     "relevantLinks": [
       {
         "type": "other",
-        "URL": "https://adrianantanon.netlify.app/",
-        "description": "Portfolio"
+        "URL": "https://adrianantanon.netlify.app/"
       }
     ]
   },
@@ -168,6 +167,10 @@
   },
   "manfredSpecificData": {
     "mainStackTechs": [
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
       {
         "name": "JavaScript",
         "type": "technology"
