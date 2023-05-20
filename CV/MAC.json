@@ -1,0 +1,147 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Adrián",
+      "surnames": "Antañón Orozco",
+      "title": "Frontend developer",
+      "description": " A frontend developer passionated about web development.",
+      "avatar": {
+        "alt": "img-adri-min.JPG",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/04/4a241c51-0772-4211-b91a-907a79a7de50_img-adri-min.jpg"
+      },
+      "location": {
+        "country": "España",
+        "region": "Cataluña",
+        "municipality": "Barcelona",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://adrianantanon.netlify.app/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/Adri-Antanon"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/adrianantanyon/"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Catalan",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "English",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/adrianantanyon/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Cypress",
+          "type": "technology"
+        },
+        {
+          "name": "Jest",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "jQuery",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Frontend Developer"
+      ]
+    },
+    "status": "openToOffers"
+  }
+}
