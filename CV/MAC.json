@@ -20,7 +20,14 @@
         "region": "Cataluña",
         "municipality": "Barcelona"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://adrianantanon.netlify.app/",
+        "description": "Portfolio"
+      }
+    ]
   },
   "knowledge": {
     "languages": [
@@ -108,10 +115,6 @@
         {
           "URL": "https://www.linkedin.com/in/adrianantanyon/",
           "type": "linkedin"
-        },
-        {
-          "URL": "https://github.com/Adri-Antanon",
-          "type": "other"
         }
       ],
       "contactMails": [
