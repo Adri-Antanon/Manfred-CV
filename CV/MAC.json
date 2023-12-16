@@ -36,6 +36,57 @@
     "jobs": [
       {
         "organization": {
+          "name": "Festo",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/16/47afaac1-08d2-494f-b36d-7e9d61802b0e_festo_espaa_logo.jpg",
+            "alt": "festo_espaa_logo.jpg"
+          },
+          "URL": "https://www.festo.com/es/es/"
+        },
+        "roles": [
+          {
+            "name": "Frontend Engineer",
+            "startDate": "2022-04-01",
+            "challenges": [
+              {
+                "description": "Encargado de desarrollar y mantener el frontend de las Engineering Tools, crear tests y documentación automatizada, coordinar y alinear requirimientos con product owners y stakeholders y apoyar y colaborar dentro de un equipo agile repartido entre España y Alemania."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
+                "name": "TestingLibrary",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Brothapps",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/16/e4931fbc-086a-4550-a9f1-3217907a06bd_brothapps.jpg",
