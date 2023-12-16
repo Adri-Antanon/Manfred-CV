@@ -36,6 +36,37 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Calculation | Flowrate",
+          "description": "El usuario puede comprobar las características de caudal de su circuito y asegurarse de que las tuberías o tubos flexibles seleccionados cumplen sus requisitos.",
+          "URL": "https://www.festo.com/us/en/s/flowrate-calculation/#/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/16/b6c9f386-5671-4d5a-ad95-70d8d2a51bcb_flowrate.png",
+            "alt": "flowrate.png"
+          }
+        },
+        "type": "launch",
+        "publishingDate": "2023-10-01",
+        "relatedCompetences": [
+          {
+            "name": "Jest",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Redux",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Connectivity Finder",
           "description": "Herramienta que ayuda a encontrar la forma ideal de conectar una PLC de Festo a otro sistema de control, proporcionando planos y documentación.",
           "URL": "https://www.festo.com/us/en/s/connectivity-finder/#/",
