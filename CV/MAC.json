@@ -36,6 +36,37 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Connectivity Finder",
+          "description": "Herramienta que ayuda a encontrar la forma ideal de conectar una PLC de Festo a otro sistema de control, proporcionando planos y documentación.",
+          "URL": "https://www.festo.com/us/en/s/connectivity-finder/#/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/16/1eff0fc4-41c1-4f3a-bef6-94ddc106adaf_connectivity-finder.jpg",
+            "alt": "connectivity-finder.jpg"
+          }
+        },
+        "type": "launch",
+        "publishingDate": "2022-06-01",
+        "relatedCompetences": [
+          {
+            "name": "Jest",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Redux",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Shock Absorber Sizing",
           "description": "Me encargué de la parte frontend de la aplicación, una herramienta que ayuda a ingenieros a seleccionar los amortiguadores que mejor se adaptan a sus necesidades.",
           "URL": "https://www.festo.com/us/en/s/shock-absorber/#/",
