@@ -33,6 +33,56 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Brothapps",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/16/e4931fbc-086a-4550-a9f1-3217907a06bd_brothapps.jpg",
+            "alt": "brothapps.jpg"
+          },
+          "URL": "https://www.linkedin.com/company/brothapps/?originalSubdomain=es"
+        },
+        "roles": [
+          {
+            "name": "Frontend developer",
+            "startDate": "2021-05-01",
+            "finishDate": "2022-04-01",
+            "challenges": [
+              {
+                "description": "Frontend encargado de desarrollar y mantener webs y apps utilizando React, React Native, NextJS, JavaScript y TypeScript."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Sass",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "publicArtifacts": [
       {
         "details": {
