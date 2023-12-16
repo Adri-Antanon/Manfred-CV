@@ -32,6 +32,41 @@
       }
     ]
   },
+  "experience": {
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Lanzamiento de Shock Absorber Sizing",
+          "description": "Me encargué de la parte frontend de la aplicación, una herramienta que ayuda a ingenieros a seleccionar los amortiguadores que mejor se adaptan a sus necesidades.",
+          "URL": "https://www.festo.com/us/en/s/shock-absorber/#/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/16/2f734e62-382f-4d0a-abc8-b86081a43fea_shock-absorber-sizin.jpg",
+            "alt": "shock-absorber-sizing.jpg"
+          }
+        },
+        "type": "launch",
+        "publishingDate": "2022-03-01",
+        "relatedCompetences": [
+          {
+            "name": "Jest",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Redux",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
