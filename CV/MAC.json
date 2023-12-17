@@ -306,6 +306,28 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
+        "name": "Grado superior en administración y finanzas",
+        "startDate": "2015-09-01",
+        "institution": {
+          "name": "Stucom",
+          "description": "El Grado Superior en Administración y Finanzas es un programa educativo diseñado para dotar a los estudiantes de las habilidades y conocimientos necesarios para gestionar eficientemente los recursos financieros y administrativos de una organización. \nEste programa abarca áreas clave de la administración empresarial, preparando a los estudiantes para roles relevantes en el ámbito financiero y administrativo.",
+          "URL": "https://www.stucom.com/es/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/17/f1747ad5-3c99-4917-9d86-f7743bf7f71c_stucombcn_logo.jpg",
+            "alt": "stucombcn_logo.jpg"
+          }
+        },
+        "finishDate": "2017-05-01",
+        "linkedCompetences": [
+          {
+            "name": "SAP",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "Grado superior en desarrollo de aplicaciones web",
         "startDate": "2019-09-01",
         "institution": {
