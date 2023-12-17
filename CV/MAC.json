@@ -302,6 +302,66 @@
         }
       }
     ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado superior en desarrollo de aplicaciones web",
+        "startDate": "2019-09-01",
+        "institution": {
+          "name": "Institut Tecnológic de Barcelona (ITB)",
+          "description": "El Grado Superior en Desarrollo de Aplicaciones Web (DAW) es un programa educativo diseñado para proporcionar a los estudiantes las habilidades técnicas y conocimientos necesarios para crear, desarrollar y mantener aplicaciones web innovadoras y funcionales. \nEste programa abarca diversas áreas de la programación y el diseño web, preparando a los estudiantes para enfrentar los desafíos cambiantes del mundo digital.",
+          "URL": "https://itb.cat/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/17/fdd8ff9a-98cf-44e5-9c6c-58e66a6f88b5_itecbcn_logo.jpg",
+            "alt": "itecbcn_logo.jpg"
+          }
+        },
+        "finishDate": "2021-05-01",
+        "linkedCompetences": [
+          {
+            "name": "Angular2+",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "NoSQL",
+            "type": "technology"
+          },
+          {
+            "name": "Oracle",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
     "softSkills": [
       {
         "skill": {
