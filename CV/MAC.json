@@ -285,6 +285,12 @@
       },
       {
         "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Sass",
           "type": "technology"
         }
@@ -377,11 +383,7 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "CSS",
-        "type": "technology"
-      },
-      {
-        "name": "JavaScript",
+        "name": "Jest",
         "type": "technology"
       },
       {
@@ -390,6 +392,10 @@
       },
       {
         "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "Redux",
         "type": "technology"
       },
       {
