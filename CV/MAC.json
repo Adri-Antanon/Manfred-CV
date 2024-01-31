@@ -238,7 +238,7 @@
     "languages": [
       {
         "name": "CA",
-        "fullName": "Catalán",
+        "fullName": "Catalán / Valenciano",
         "level": "Native or bilingual proficiency"
       },
       {
@@ -415,12 +415,6 @@
       ],
       "contactMails": [
         "adrianantanon@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "654497613",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
