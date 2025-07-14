@@ -354,7 +354,7 @@
             "type": "technology"
           },
           {
-            "name": "JAVA",
+            "name": "Java",
             "type": "technology"
           },
           {
@@ -412,9 +412,6 @@
           "URL": "https://www.linkedin.com/in/adrianantanyon/",
           "type": "linkedin"
         }
-      ],
-      "contactMails": [
-        "adrianantanon@gmail.com"
       ]
     },
     "preferences": {
