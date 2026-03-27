@@ -45,11 +45,11 @@
         },
         "roles": [
           {
-            "name": "Frontend Engineer & Scrum Master",
+            "name": "Scrum Master",
             "startDate": "2026-02-01",
             "challenges": [
               {
-                "description": "Acting as Scrum Master while continuing to contribute as a Frontend Engineer in the Engineering Tools domain.\n\nResponsibilities\n\nScrum Master:\n\n🔹Facilitate Sprint Planning, Daily Scrums, Sprint Reviews and Retrospectives\n🔹Promote Agile and Scrum practices across the team\n🔹Foster a culture of ownership, transparency and continuous improvement\n🔹Help improve delivery predictability and team collaboration\n\nFrontend Engineer:\n\n🔹Developing and maintaining the frontend of engineering web tools\n🔹Building scalable and maintainable applications using React and TypeScript\n🔹Creating automated tests (Vitest, Playwright) and improving code quality\n🔹Collaborating in a distributed agile team across Spain and Germany"
+                "description": "Acting as Scrum Master while continuing to contribute as a Frontend Engineer, my responsabilites are:\n\n🔹Facilitate Sprint Planning, Daily Scrums, Sprint Reviews and Retrospectives\n🔹Promote Agile and Scrum practices across the team\n🔹Foster a culture of ownership, transparency and continuous improvement\n🔹Help improve delivery predictability and team collaboration"
               }
             ],
             "competences": [
