@@ -38,6 +38,61 @@
         "organization": {
           "name": "Festo",
           "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/03/27/caf493d5-3166-4ded-bb0f-dbac062001e3_festo-logo.jpg",
+            "alt": "festo-logo.jpg"
+          },
+          "URL": "https://www.festo.com/es/es/"
+        },
+        "roles": [
+          {
+            "name": "Frontend Engineer & Scrum Master",
+            "startDate": "2026-02-01",
+            "challenges": [
+              {
+                "description": "Acting as Scrum Master while continuing to contribute as a Frontend Engineer in the Engineering Tools domain.\n\nResponsibilities\n\nScrum Master:\n\n🔹Facilitate Sprint Planning, Daily Scrums, Sprint Reviews and Retrospectives\n🔹Promote Agile and Scrum practices across the team\n🔹Foster a culture of ownership, transparency and continuous improvement\n🔹Help improve delivery predictability and team collaboration\n\nFrontend Engineer:\n\n🔹Developing and maintaining the frontend of engineering web tools\n🔹Building scalable and maintainable applications using React and TypeScript\n🔹Creating automated tests (Vitest, Playwright) and improving code quality\n🔹Collaborating in a distributed agile team across Spain and Germany"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Playwright",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vite",
+                "type": "technology"
+              },
+              {
+                "name": "Vitest",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Festo",
+          "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/16/47afaac1-08d2-494f-b36d-7e9d61802b0e_festo_espaa_logo.jpg",
             "alt": "festo_espaa_logo.jpg"
           },
